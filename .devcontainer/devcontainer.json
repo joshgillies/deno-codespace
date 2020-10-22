@@ -2,7 +2,7 @@
     "name": "Deno Codespace",
     "image": "hayd/debian-deno",
     "settings": { 
-        "deno.enable": true
+        "terminal.integrated.shell.linux": "/bin/bash",
     },
     "extensions": [
         "denoland.vscode-deno"
