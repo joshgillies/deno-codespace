@@ -1,0 +1,10 @@
+{
+    "name": "Deno Codespace",
+    "image": "hayd/debian-deno",
+    "settings": { 
+        "deno.enable": true
+    },
+    "extensions": [
+        "denoland.vscode-deno"
+    ]
+}
