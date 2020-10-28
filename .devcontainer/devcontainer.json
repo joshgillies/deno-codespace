@@ -1,7 +1,7 @@
 {
     "name": "Deno Codespace",
     "image": "hayd/debian-deno",
-    "settings": { 
+    "settings": {
         "terminal.integrated.shell.linux": "/bin/bash",
     },
     "extensions": [
